@@ -9,3 +9,10 @@ Este repositorio contiene los archivos necesarios para el taller.
 - Homebrew: `brew install git`
 - [Mac](http://git-scm.com/download/mac)
 - [Windows](http://git-scm.com/download/win)
+
+## Recursos
+
+Para seguir aprendiendo Git, pueden utilizar estos recursos gratuitos:
+
+- <http://gitimmersion.com/>
+- <https://www.codeschool.com/courses/try-git>
